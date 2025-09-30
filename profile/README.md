@@ -9,4 +9,7 @@ Welcome to the **Kenyon College GitHub Organization** 👋
 
 ---
 
-✨ Created by a student to foster community and collaboration at Kenyon.
+✨ Created by a student to foster community and collaboration at Kenyon.  
+
+💬 Head over to the **Discussions** section to chat, share recent projects, or highlight other repositories people might find useful!
+
